@@ -1,0 +1,1 @@
+data class Code(val rgba: IntArray, val hex: String)
